@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Manejo-Profesional-del-Estado/static/css/main.f2a2753e.css",
+    "main.js": "/Manejo-Profesional-del-Estado/static/js/main.39f36bdc.js",
+    "index.html": "/Manejo-Profesional-del-Estado/index.html",
+    "static/media/delete.svg": "/Manejo-Profesional-del-Estado/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/check.svg": "/Manejo-Profesional-del-Estado/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.f2a2753e.css.map": "/Manejo-Profesional-del-Estado/static/css/main.f2a2753e.css.map",
+    "main.39f36bdc.js.map": "/Manejo-Profesional-del-Estado/static/js/main.39f36bdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2a2753e.css",
+    "static/js/main.39f36bdc.js"
+  ]
+}
